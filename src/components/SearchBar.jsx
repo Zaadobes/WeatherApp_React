@@ -9,9 +9,6 @@ import mist from '../images/mist.png'
 import rain from '../images/rain.png'
 import snow from '../images/snow.png'
 import Error from './Error'
-import dotenv from 'dotenv';
-dotenv.config();
- 
 
 const SearchBar = () => {
 
